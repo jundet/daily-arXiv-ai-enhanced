@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+ai/.env
+test/*
+.idea/
+.cursorrules
+node_modules/
+package-lock.json
+yarn.lock
+.DS_Store
+package.json
